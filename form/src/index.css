@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.input {
+    @apply bg-white py-2 px-2 pl-3.5 border-2 border-solid border-white rounded-lg placeholder-gray-400
+}
+
+.flex_center {
+    @apply flex justify-center
+}
