@@ -1,0 +1,21 @@
+.topics_alignment {
+  display: flex;
+  flex-direction: column;
+  margin-top: 7.5rem;
+  margin-left: 11.25rem;
+}
+
+.link {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.link:hover {
+  color: #2baae2;
+}
+
+.latest-posts_style {
+  margin-bottom: 2rem; 
+}

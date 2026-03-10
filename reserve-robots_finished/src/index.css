@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+.page_style {
+    @apply h-screen flex flex-col justify-between bg-linear-to-r from-teal-700 to-indigo-800
+}
+
+.header_style {
+    @apply text-center py-5 border-b-5 border-black
+}
+
+h1 {
+    @apply text-teal-300 text-3xl font-bold mb-5
+}
+
+.input_style {
+    @apply bg-sky-200 mt-2 py-2 px-8
+}
+
+.main_style {
+    @apply flex flex-row flex-wrap justify-center gap-10
+}
+
+.footer_style {
+    @apply py-5 border-t-5 border-black text-teal-300 text-center
+}
+
+.robot_card_style {
+    @apply bg-teal-300 p-5 text-center rounded-xl
+}
+
+h2 {
+    @apply text-lg font-bold
+}
+
+.reseve_button_style {
+    @apply text-white text-lg bg-blue-950 mt-2 px-10 cursor-pointer
+}

@@ -1,0 +1,17 @@
+.like-dislike_component {
+    max-width: 25rem;
+    margin-inline: 37%;
+}
+
+.text_xl {
+    font-size: 1.25rem;
+    line-height: 1.4;
+}
+
+.dislike_padding {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem; 
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem; 
+
+}

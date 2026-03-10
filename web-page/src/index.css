@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.large_text {
+    @apply text-lg
+}
+
+.two_xl_text {
+    @apply text-2xl
+}
+
+.padding_left_55 {
+    @apply pl-55
+}

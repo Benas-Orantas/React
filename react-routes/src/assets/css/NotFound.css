@@ -1,0 +1,29 @@
+.back-to-home_button {
+  padding: 0.5rem;
+  border-radius: 0.125rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  text-align: center;
+  color: #ffffff;
+  background: #2baae2;
+}
+
+.back-to-home_button:hover {
+  background: #2288b5;
+}
+
+.not-found_component_allignment {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 0%;
+  gap: 1.25rem;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h2 {
+  font-size: 3.75rem;
+  line-height: 1;
+  text-align: center;
+}

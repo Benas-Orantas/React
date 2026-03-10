@@ -1,0 +1,80 @@
+.increment-decrement_buttons {
+  font-size: 1.125rem;
+  text-align: center;
+  background-color: #d1d5dc;
+  border-radius: 0.375rem;
+}
+
+.increment_button {
+  padding-block: 0.5rem;
+  padding-inline: 1.125rem;
+  padding-top: 0.25rem;
+}
+
+.decrement_button {
+  padding-block: 0.75rem;
+  padding-inline: 1.25rem;
+  padding-top: 0.5rem;
+}
+
+.increment-decrement_buttons:hover {
+  background-color: #99a1af;
+}
+
+.flex-n-gap {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.number_align_size {
+  font-size: 1.25rem;
+  line-height: 1.4;
+  margin-top: 0.5rem;
+}
+
+.counter-with-history {
+  display: flex; 
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem; 
+  padding-left: 3rem;
+  padding-right: 3rem; 
+  margin-top: 1.25rem; 
+  flex-direction: row; 
+  gap: 0.75rem; 
+  justify-content: center; 
+  text-align: center; 
+  margin-inline: 30%;
+}
+
+.multiple-counters_component {
+  max-width: 42.5rem;
+  margin-inline: 30%;
+}
+
+.reset_button {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem; 
+  margin-left: 2.5rem;
+  margin-right: 2.5rem; 
+  margin-top: 0.75rem; 
+  max-height: 3rem; 
+}
+
+.counter-history_padding {
+  padding-left: 1rem;
+  padding-right: 1rem; 
+  padding-top: 0.25rem; 
+}
+
+.counter-with-limits_component {
+  max-width: 22.5rem;
+  margin-inline: 42%;
+}
+
+.double-counters_padding {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem; 
+  padding-left: 1.25rem;
+  padding-right: 1.25rem; 
+}

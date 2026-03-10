@@ -1,0 +1,14 @@
+[   
+    {
+      "label": "Home",
+      "content": "home"
+    },
+    {
+      "label": "Profile",
+      "content": "profile"
+    },
+    {
+      "label": "Settings",
+      "content": "settings"
+    }
+]

@@ -1,0 +1,17 @@
+.tab-navigation_component {
+    max-width: 19.75rem;
+    margin-inline: 39%;
+}
+
+.tab_padding {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem; 
+    padding-left: 0.75rem;
+    padding-right: 0.75rem; 
+}
+
+.tab-box_allignment_style {
+    flex-direction: row; 
+    border-bottom-width: 0.125rem;
+    border-bottom-color: #6a7282;
+}

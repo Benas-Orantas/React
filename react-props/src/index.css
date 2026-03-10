@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.center_text {
+    @apply text-center
+}
+
+.gamebox_size {
+    @apply w-59.25 h-74.75
+}
+
+.header_footer_design {
+    @apply bg-cyan-600 py-2 text-center text-white
+}

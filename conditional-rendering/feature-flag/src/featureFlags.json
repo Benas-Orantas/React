@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "feature1",
+        "newFeature" : true,
+        "deperecatedFeature" : false
+    },
+    {
+        "name" : "feature2",
+        "newFeature" : false,
+        "deperecatedFeature" : false
+    },
+    {
+        "name" : "feature3",
+        "newFeature" : false,
+        "deperecatedFeature" : true
+    }
+]

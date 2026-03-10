@@ -1,0 +1,11 @@
+.registration-form_component {
+    max-width: 25rem;
+    margin-inline: 37%;
+    gap: 1rem;
+}
+
+.registration-form_inputs_allignment {
+    display: flex; 
+    flex-direction: column; 
+    gap: 1.25rem; 
+}

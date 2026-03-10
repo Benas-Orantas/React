@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+td, th {
+    @apply border
+}
+
+th {
+    @apply bg-[#aa4f7d] text-white font-normal
+}
+
+td {
+    @apply border-white font-light
+}
+
+tr:nth-child(even) {
+    @apply bg-[#ecd6e2]
+}
+
+tr:nth-child(odd) {
+    @apply bg-[#ddb3cb]
+}
+
+tr:hover {
+    @apply bg-[#69314d] text-white
+}

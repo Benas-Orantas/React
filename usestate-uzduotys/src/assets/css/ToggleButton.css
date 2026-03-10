@@ -1,0 +1,11 @@
+.toggle-button {
+    padding: 1.25rem; 
+    border-radius: 0.5rem; 
+    font-size: 1.5rem;
+    line-height: 2rem; 
+}
+
+.toggle_button_component {
+    max-width: 17.5rem;
+    margin-inline: 44%;
+}

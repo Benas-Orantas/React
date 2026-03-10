@@ -1,0 +1,13 @@
+article {
+    margin: 4rem;
+    margin-inline: 15rem;
+}
+
+.header-margin {
+    margin-bottom: 2rem;
+}
+
+p {
+    font-size: 1.125rem;
+    line-height: 1.75rem; 
+}

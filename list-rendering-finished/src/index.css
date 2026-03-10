@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+.job_list_background {
+    @apply bg-sky-50
+}
+
+.badge-inside-style {
+    @apply text-white px-2 py-1 rounded-2xl font-bold text-sm
+}
+
+.flexing {
+    @apply flex
+}
+
+.flex_gap2 {
+    @apply flex gap-2
+}
+
+.ligt_gray_text {
+    @apply text-gray-300
+}
+
+.bold_text {
+    @apply font-bold
+}
+
+.logo {
+    @apply h-25 w-25 rounded-full mx-8
+}

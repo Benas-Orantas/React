@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+h1 {
+  @apply text-7xl font-bold
+}
+
+.center_text {
+  @apply text-center
+}
+
+.flexing_column {
+  @apply flex flex-col justify-center
+}
+
+.log_in_button {
+  @apply bg-green-500
+}
+
+.log_out_button {
+  @apply bg-red-500
+}
+
+.loginout_button {
+  @apply font-bold text-white rounded-lg
+}
+
+.button2_design {
+  @apply my-5 bg-sky-100 border border-gray-300 rounded-xs
+}
+
+.button_padding {
+  @apply py-2
+}
+
+.profile_button {
+  @apply py-1
+}
+
+.button_margin {
+  @apply mx-180
+}

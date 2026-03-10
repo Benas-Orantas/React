@@ -1,0 +1,14 @@
+.shopping-cart_component {
+    max-width: 25rem;
+    margin-inline: 37%;
+}
+
+.shopping-cart_button {
+    padding: 0.5rem; 
+    border-radius: 0.5rem; 
+}
+
+.flex-n-gap_products {
+    flex-direction: row; 
+    gap: 1.25rem; 
+}

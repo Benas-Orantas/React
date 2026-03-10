@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+.component {
+  @apply flex flex-col justify-center border-2 border-gray-500 py-5 px-12 text-center
+}
+
+h3 {
+  @apply text-center mb-2 text-xl font-bold
+}
+
+button {
+  @apply cursor-pointer
+}
+
+.sky_button {
+  @apply bg-sky-100 rounded-sm hover:bg-sky-200
+}
+
+.green_button {
+  @apply bg-green-500 text-white font-bold hover:bg-green-600
+}
+
+.red_button {
+  @apply bg-red-500 text-white font-bold hover:bg-red-600
+}
+
+.blue_button {
+  @apply bg-blue-500 text-white font-bold hover:bg-blue-600
+}
+
+.width-n-margin1 {
+  @apply max-w-100 mx-[40%]
+}
+
+.flex_center {
+  @apply flex justify-center
+}
+
+.gray_border {
+  @apply border-2 border-gray-500
+}
+
+.input1 {
+  @apply border border-gray-500 ml-2
+}
+
+.large-text {
+  @apply text-lg
+}

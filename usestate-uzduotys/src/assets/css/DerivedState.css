@@ -1,0 +1,11 @@
+.derived-state_component {
+    max-width: 30rem;
+    margin-inline: 35%;
+    gap: 0.5rem;
+}
+
+.calculate-discount_button {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem; 
+    border-radius: 0.5rem; 
+}

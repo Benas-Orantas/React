@@ -1,0 +1,45 @@
+.todo-list_component {
+  display: flex;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  margin-top: 1.25rem;
+  flex-direction: row;
+  gap: 0.5rem;
+  justify-content: center;
+  text-align: center;
+  max-width: 37.5rem;
+  margin-inline: 31%;
+}
+
+.delete-taks_button {
+  padding: 0.25rem;
+  margin-bottom: 0.25rem;
+  border-radius: 0.5rem;
+}
+
+.tasks_allignment {
+  margin-left: 1.25rem;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.task-list_size {
+  min-width: 17.5rem;
+  min-height: 5rem;
+}
+
+.add-task_button {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+  margin-right: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.flex-n-gap_tasks {
+    flex-direction: column; 
+    gap: 0.5rem; 
+}

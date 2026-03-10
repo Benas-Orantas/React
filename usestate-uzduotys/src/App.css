@@ -1,0 +1,5 @@
+.flex-gap-n-margin {
+    flex-direction: column; 
+    gap: 1.25rem;
+    margin-block: 2rem;
+}
